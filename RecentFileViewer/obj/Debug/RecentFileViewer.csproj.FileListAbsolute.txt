@@ -1,0 +1,11 @@
+c:\users\antor\documents\visual studio 2013\Projects\RecentFileViewer\RecentFileViewer\bin\Debug\RecentFileViewer.exe.config
+c:\users\antor\documents\visual studio 2013\Projects\RecentFileViewer\RecentFileViewer\bin\Debug\RecentFileViewer.exe
+c:\users\antor\documents\visual studio 2013\Projects\RecentFileViewer\RecentFileViewer\bin\Debug\RecentFileViewer.pdb
+c:\users\antor\documents\visual studio 2013\Projects\RecentFileViewer\RecentFileViewer\obj\Debug\RecentFileViewer.csprojResolveAssemblyReference.cache
+c:\users\antor\documents\visual studio 2013\Projects\RecentFileViewer\RecentFileViewer\obj\Debug\RecentFileViewer.Form1.resources
+c:\users\antor\documents\visual studio 2013\Projects\RecentFileViewer\RecentFileViewer\obj\Debug\RecentFileViewer.Properties.Resources.resources
+c:\users\antor\documents\visual studio 2013\Projects\RecentFileViewer\RecentFileViewer\obj\Debug\RecentFileViewer.csproj.GenerateResource.Cache
+c:\users\antor\documents\visual studio 2013\Projects\RecentFileViewer\RecentFileViewer\obj\Debug\RecentFileViewer.exe
+c:\users\antor\documents\visual studio 2013\Projects\RecentFileViewer\RecentFileViewer\obj\Debug\RecentFileViewer.pdb
+c:\users\antor\documents\visual studio 2013\Projects\RecentFileViewer\RecentFileViewer\obj\Debug\RecentFileViewer.Zip.resources
+C:\Users\Antor\documents\visual studio 2013\Projects\RecentFileViewer\RecentFileViewer\obj\Debug\RecentFileViewer.ZipHome.resources
